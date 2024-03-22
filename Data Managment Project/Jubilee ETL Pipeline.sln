@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Jubilee ETL Pipeline", "Jubilee ETL Pipeline\Jubilee ETL Pipeline.dtproj", "{88A81C78-126C-48E7-88D8-067FA7595B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A81C78-126C-48E7-88D8-067FA7595B09}.Development|Default.ActiveCfg = Development
+		{88A81C78-126C-48E7-88D8-067FA7595B09}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5057A7-BFD7-47D4-BA17-CB9F54433507}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName,DepartmentDescription,ESTDate
+1,Worship Ministry,Oversees music, choir, and worship services,2009-01-07
+2,Childrens Ministry,Focuses on activities and education for children,2009-01-07
+3,Youth Ministry,Engages with teenagers and young adults,2009-01-07
+4,Outreach Ministry,Coordinates community outreach and missions,2009-01-07
+5,Missions Department,Manages global and local mission efforts,2009-01-07
+6,Education Ministry,Handles adult education and Bible studies,2009-01-07
+7,Administration/Operations,Manages church logistics and administration,2009-01-07
+8,Finance Ministry,Deals with church finances and budgeting,2009-01-07
+9,Prayer Ministry,Organizes prayer initiatives and support,2009-01-07
+10,Technology/Media Ministry,Oversees audio, visual, and online presence,2009-01-07

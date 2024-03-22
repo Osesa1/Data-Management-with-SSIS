@@ -1,0 +1,50 @@
+ActivityID,ActivityName,ActivityDescription,DepartmentID,LoadDate
+1,Sunday Service,Weekly worship service,1,2/20/2022
+2,Bible Study,Interactive group study of scriptures,5,2/21/2022
+3,Choir Rehearsal,Practice for upcoming performances,1,2/22/2022
+4,Youth Fellowship,Gathering for young members,3,2/23/2022
+5,Community Outreach,Engaging with the local community,4,2/24/2022
+6,Mission Trip Planning,Organizing upcoming mission trip details,4,2/25/2022
+7,Community Potluck,Shared meal with the congregation,2,2/26/2022
+8,Childrens Bible Class,Educational program for young members,3,2/27/2022
+9,Elderly Care Visits,Visiting and assisting elderly members,4,2/28/2022
+10,Youth Camp Registration,Registering participants for summer camp,3,3/1/2022
+11,Community Clean-up Day,Participating in local neighborhood cleanup,4,3/5/2022
+12,Youth Choir Practice,Rehearsing for upcoming youth performance,1,3/10/2022
+13,New Member Orientation,Welcoming and orienting new members,2,3/15/2022
+14,Prison Ministry Visit,Engaging with inmates in local correctional facilities,4,3/20/2022
+15,Finance Committee Meeting,Discussing church financial matters,5,3/25/2022
+16,Hospital Visits,Visiting and praying for hospitalized members,4,4/5/2022
+17,Marriage Seminar,Educational seminar for married couples,8,4/10/2022
+18,Senior Citizens Luncheon,Special luncheon event for elderly members,3,4/15/2022
+19,Volunteer Training,Training for church volunteers,4,4/20/2022
+20,Easter Choir Rehearsal,Preparing for Easter Sunday performance,7,4/1/2022
+21,Parenting Workshop,Support and guidance for parents,2,4/11/2022
+22,Mens Fellowship Breakfast,Monthly breakfast gathering for men,1,4/15/2022
+23,Womens Book Club,Book discussion group for women,2,4/20/2022
+24,Youth Talent Show,Showcasing the talents of young members,6,4/25/2022
+25,Church Picnic,Outdoor picnic for the entire congregation,9,5/1/2022
+26,Parent-Teacher Meeting,Discussion on church educational programs,3,5/5/2022
+27,Summer Camp Planning,Planning activities for the upcoming summer camp,3,5/10/2022
+28,Volunteer Appreciation Dinner,Celebrating and honoring church volunteers,4,5/15/2022
+30,Youth Movie Night,Movie screening for the youth group,3,5/25/2022
+31,Health and Wellness Workshop,Promoting health and wellness in the church community,4,6/1/2022
+32,Summer Vacation Bible School,Educational program for children during summer,3,6/5/2022
+33,Community Garden Planting,Planting and maintaining a community garden,4,6/10/2022
+34,Church Anniversary Celebration,Marking the anniversary of the church establishment,2,6/15/2022
+35,Vacation Bible School Volunteer Training,Training for volunteers for VBS,3,6/20/2022
+37,Summer Youth Retreat,Spiritual retreat for the youth during the summer,1,7/5/2022
+38,Community Health Fair,Promoting health and wellness in the local community,9,7/10/2022
+39,Youth Talent Showcase,Showcasing the talents of the youth group,3,7/15/2022
+40,Church Picnic and Barbecue,Annual picnic and barbecue for the church community,4,7/20/2022
+41,Vacation Bible School Closing Ceremony,Concluding ceremony for the VBS program,6,7/25/2022
+42,Family Movie Night,Movie screening for families in the church,10,8/1/2022
+43,Back-to-School Prayer Service,Prayer service for students as they begin the school year,3,8/5/2022
+44,Youth Sports Day,Sports and recreational activities for the youth group,4,8/10/2022
+45,Community Potluck and Fellowship,Shared meal and fellowship with the congregation,7,8/15/2022
+46,Church Leadership Meeting,Discussion and planning for church leadership,2,8/20/2022
+47,Fall Festival Planning,Planning for the upcoming fall festival event,3,8/25/2022
+48,Harvest Outreach Program,Outreach program to support the local community during harvest season,4,9/1/2022
+49,Childrens Choir Practice,Rehearsing for childrens choir performances,9,9/5/2022
+50,Fall Festival and Community Fair,Annual fall festival and fair for the entire community,2,9/10/2022
+52,children summer outing,this is a test,2,9/10/2024

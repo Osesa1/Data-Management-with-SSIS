@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JubileeWorshipCenter"
+  DTS:DTSID="{D63086CE-C8C6-4AE7-9D42-1283A0408566}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-47P03GAF\SQLEXPRESS;Initial Catalog=JubileeWorshipCenter;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package-{D63086CE-C8C6-4AE7-9D42-1283A0408566}LAPTOP-47P03GAF\SQLEXPRESS.JubileeWorshipCenter;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
